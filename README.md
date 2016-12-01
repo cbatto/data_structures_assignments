@@ -1,4 +1,4 @@
-# data_structures_assignments
+# Data Structures & Algorithms
 
 Laboratory assignments and projects related to data structures. These programs were part of a semester long course taken at University.
 An introduction to the programming and analysis of linear and non-linear internal (main store) data structures and associated algorithms. 
